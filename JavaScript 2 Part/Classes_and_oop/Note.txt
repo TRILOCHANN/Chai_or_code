@@ -1,0 +1,23 @@
+## javascript and classes
+
+## OOP
+
+## Object
+-collection of property and methods 
+-toLowerCase
+
+## why use OOP
+
+##parts of OOP
+Object literal
+
+-Constructor function  //Ex- const createVar = new promise() 
+-prototype 
+-classes
+-Instances (new , this)
+
+## 4 pillars 
+Abstraction //  it means hiding the complex implementation details and showing only the essential features of an object or function
+Encapsulation  //  In JavaScript, encapsulation means bundling data (variables) and methods (functions) that work on that data into a single unit, usually an object or a class
+Inheritance // It allows code reusability and helps create hierarchies between classes or objects.
+Polymorphism // usuwhere one function or method behaves differently based on the object that is calling it.
